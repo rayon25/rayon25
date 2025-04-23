@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayon25" alt="rayon25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rayon_25" target="blank"><img src="https://img.shields.io/twitter/follow/rayon_25?logo=twitter&style=for-the-badge" alt="rayon_25" /></a> </p>
+<p align="left"> <a href="https://x.com/rohitjadhav025" target="blank"><img src="https://img.shields.io/twitter/follow/rohitjadhav025?logo=twitter&style=for-the-badge" alt="rayon_25" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/354c10d298b21f5cf0ab2014787f38e4/tumblr_nfpjad8M1m1txp8nwo1_500.gif">
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me - - > </h3>
 <p align="left">
-<a href="https://twitter.com/rayon_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayon_25" height="30" width="40" /></a>
+<a href="https://x.com/rohitjadhav025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayon_25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitjadhav25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitjadhav25" height="30" width="40" /></a>
-<a href="https://instagram.com/__rohit.j__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rohit.j__" height="30" width="40" /></a>
+<a href="https://instagram.com/rohitjadhav025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rohit.j__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rayon25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rayon25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rayon25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rayon25" height="30" width="40" /></a>
 <a href="https://discord.gg/rayon_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rayon_." height="30" width="40" /></a>
