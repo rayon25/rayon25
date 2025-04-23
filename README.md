@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hello 👋, I'm ℝ𝕠𝕙𝕚𝕥 𝕁𝕒𝕕𝕙𝕒𝕧</h1>
-<h3 align="center">A passionate Explorer from India 🇮🇳</h3>
+<h3 align="center">From Handling Daily Transactions to Architecting Digital Finance | B.E. AI & Data Science Graduate on a Mission to Innovate in Fintech</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayon25&label=Profile%20views&color=0e75b6&style=flat" alt="rayon25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayon25" alt="rayon25" /></a> </p>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as an Part-timer in one of India's Famous Retailer **D-Mart**
 
-- 🌱 I’m currently learning **AIML & related areas of it**
+- 🌱 On an **Entrepreneurial** Journey
 
 - ⚡ Fun fact **I am a Gaming Enthusiast 🕹💠**
 
